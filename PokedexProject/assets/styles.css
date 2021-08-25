@@ -1,0 +1,596 @@
+body {
+    margin: 0;    
+}
+
+.apply {
+    background-color: #4992ca;
+    color: white;
+    font-size: 12px;
+    padding: 10px 60px;
+    margin-left: 30px;
+    border: none;
+    margin-top: -60px;
+    margin-bottom: 100px;
+}
+.link {
+    border: tomato;
+    background-color: white;
+    border-radius: 15px;
+    font-size: 12px;
+    padding: 10px 10px;
+    margin-left: 30px;
+    margin-top: -80px;
+    margin-bottom: 100px; 
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-weight:bolder;
+}
+.sarthak {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-content: flex-start;
+    max-width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 30px;
+}
+.nav {
+     display: flex;
+     gap: 20px;
+}
+.diff button{
+    margin: 1px 7px;
+    justify-content: stretch;
+    padding: 1px 15px 1px 15px;
+    border: none;
+    background-color: white;
+    color: gray;
+
+}
+.diff select {
+    margin: 1px 7px;
+    color: gray;
+    justify-content: stretch;
+    padding: 1px 15px 1px 15px;
+    border: none;
+    background-color: white;
+}
+#orange {
+    background-color: orange;
+    color: white;
+    padding: 1px 20px 1px 20px;
+}
+#welcome-to-edyst-learn-coding {
+    font-size: 90px;
+    color: white;
+    margin-bottom: 1px;
+    margin-left: 30px;
+    margin-right: 150px;
+}
+#let-s-learn-web-developtment-in-a-fun-way- {
+    font-size: 33px;
+    color: white;
+    margin-top: 1px;
+    margin-left: 30px;
+    height: 100px;
+    
+}
+.welcome {
+    background-image: url(ksqOx5F.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: baseline;
+    background-size: cover;
+    background-position: center;
+    
+}
+.register {
+    color: white;
+    background-color: transparent;
+    font-size: 10px;
+    padding: 10px 46px;
+    margin-left: 30px;
+    margin-top: -80px;
+    margin-bottom: 100px;
+    border-color: white;
+}
+.sarthak {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: baseline;
+    max-width: 1200px;
+}
+.types-pokemon {
+    background: #4992ca;
+    margin-top: -10px;
+    align-items: baseline;
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+#what-are-pocket-monsters- {
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    font-family: Avenir-Next;
+    margin-top: 10px;
+    height: 20px;
+    
+}
+.temporary {
+    text-align: center;
+    color: white;
+    margin-left: 130px;
+    margin-right: 130px;
+    height: 30px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.types {
+    display: flex;
+    justify-content:center;
+    color: white;
+    gap: 70;
+    text-align: center;
+    margin-bottom: 200px;
+    height: 400px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.font- {
+    font-family: bold;
+    font-size: 17px;
+}
+.famili {
+    font-size: 30px;
+    font-family: roboto;
+}
+#statistics-on-pokemon-go {
+    text-align: center;
+    font-size: 45px;
+    margin-top: -150px;
+}
+.statistics {
+    display: flex;
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    
+}
+.sizing-zone {
+    font-family: Roboto;
+    font-size: 30px;
+    margin-top: -40px;
+    font-weight: lighter;
+    background-position: cover;
+}
+.sizingg-zone {
+    font-family: sans-serif;
+}
+#pokemon-of-the-year-revealed {
+    font-family: Avenir-Next;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 1px;
+    }
+.best-one {
+    display: flex;
+    justify-content:space-around;
+    margin-left: 140px;
+    margin-right: 140px;
+    color: gray;
+    margin-bottom: 80px;
+}
+.alignment {
+    text-align: center;
+}
+.poke-name {
+    font-size: 25px;
+    
+}
+.questions {
+    display: flex;
+    flex-direction: column;
+    background-color: #4992ca;
+    color: white;
+    background-size:inherit;
+    background-position: cover;
+    height: 480px;
+}
+    
+#q-and-a {
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 2px;    
+    }
+    .temp {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .marg {
+        margin-left: 140px;
+        margin-right: 140px;
+        margin-bottom: 2px;
+        
+    }
+    .container-poke-battles{
+        background-color: white;
+        margin:0;
+        text-align: center;
+        padding:40px;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+    .poke-battles-h2{
+        margin: 15px;
+        text-align: center;
+        font-size: 40px;
+    }
+    .poke-battles-p{
+        color: #8a8a8a;
+    }
+    
+    .poke-battles-p-tables{
+        color: black;
+    }
+    td{
+        color: #8a8a8a;
+    }
+    .poke-battles-tab,th,td{
+        border:1px solid #8a8a8a;
+        border-collapse:collapse ;
+        padding:10px;
+        text-align: left;
+    }
+    .poke-battles-content{
+        display: flex;
+        max-width: 1200px;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        padding:15px;
+    }
+    .poke-battles-para{
+        flex-basis: 0;
+        flex-grow: 1;
+        padding:15px;
+        text-align: left;
+        align-self: flex-start;
+        margin-top: -20px;
+    }
+    .poke-battles-table{
+        flex-basis: 0;
+        flex-grow: 2;
+        text-align: left;
+    }
+    .poke-battles-h4{
+        font-size: 18px;
+        margin: 0;
+        
+    }
+
+    .poke-battles-p-tables{
+        font-weight: 500;
+    }
+    .buy-now-h4{
+        color:#4992ca;
+        font-size: 20px;
+    }
+    .buy-now{
+        border:none;
+        color:white;
+        background-color:#4992ca ;
+        padding:10px;
+        width: 15rem;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .more-about-poke {
+        display: flex; 
+        flex-direction: column;
+        text-align: center;
+        background-color: rgb(75, 72, 72);
+        
+        
+    }
+    #want-to-know-more-about-pokemon- {
+        font-size: 45px;
+        color: white;
+        font-family: sans-serif;
+    }
+    .click-here- {
+        color: white;
+    background-color: transparent;
+    font-size: 17px;
+    margin-top: -20px;
+    margin-bottom: 50px;
+    border-color: white;
+    padding: 10px 46px;
+    margin-left: 550px;
+    margin-right: 550px;
+    }
+    .not-again {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 350px;
+              
+    }
+    #pokemon-card {
+        font-size: 40px;
+        color: gray;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: -20px;
+        
+    }
+    .poke-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 200px;        
+        background-color: rgb(233, 229, 229);
+        box-sizing: border-box;
+        border: 1px solid rgb(241, 236, 236);
+        border-top: 15px solid #085a99;
+    }
+    .borders {
+        display: flex;
+        width: 200px;
+        text-align: center;
+        box-sizing: border-box;
+        border: 1px solid rgb(241, 236, 236);
+        background: transparent;
+        padding: 2px;
+    }
+    #lets-know-about- {
+        font-family: Avenir-Next;
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 1px;
+        }
+    .trainers {
+        display: flex;
+        justify-content:space-around;
+        margin-left: 140px;
+        margin-right: 140px;
+        
+        margin-bottom: 80px;
+    }
+    .alignment {
+        text-align: center;
+        padding: 1px;
+        margin: 5px;
+    }
+    .trainer-name {
+        font-size: 25px;
+        
+    }
+    .pleased {
+        display: flex;
+        flex-direction: column;
+        background-color: #4992ca;
+        color: white;
+    } 
+    .all-gen {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 20px;
+    }
+    #generations-cards {
+        font-size: 40px;
+        color: gray;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .generations {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        width: 300px;        
+        
+        background-color: rgb(252, 247, 247);
+        box-sizing: border-box;
+        border: 1px solid rgb(241, 236, 236);
+        border-top: 15px solid #085a99;
+    }
+    .further {
+        
+        background-color: rgb(233, 229, 229);
+        text-align: left;
+        
+        margin-bottom: -20px;
+    }
+    .generations p,h2 {
+        padding: 15px;
+    }
+    #enter-your-email- {
+        font-size: 40px;
+        color: white;
+        font-family: sans-serif;
+
+    }
+    .blah {
+        display: flex;
+        flex-direction: column;
+    }
+    .creators {
+        display: flex;
+        background-color: #4992ca;
+        color: white;
+    }
+    .yar {
+        display: flex;
+        margin-left: 130px;
+        margin-right: 130px;
+        gap: 20px;
+    }
+    .designerx {
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 10px;
+        color: white;
+    }
+    
+    .designers {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+    .creax {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sizes {
+        font-size: 22px;
+        font-family: sans-serif;
+    }
+    .creax p {
+        margin-bottom: -5px;
+        
+    }
+    .parag {
+        height: 170px;
+    }
+    .logos-done {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .items {
+        text-align: center;
+    }
+    #logos {
+        font-size: 35px;
+        color: gray;
+        margin-bottom: 10px;
+    }
+    .poke-logos {
+        width: 170px;
+        height: 50px;
+    }
+    .logos-wrap {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 50px;
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-bottom: 10px;
+        }
+        .final-link {
+        display: flex; 
+        flex-direction: column;
+        text-align: center;
+        background-color: #4992ca;
+        }
+        #know-more- {
+            font-size: 40px;
+            color: white;
+            font-family: sans-serif;
+            margin-top: 10px;
+        }
+        ul{
+            list-style: none;
+            margin:0;
+            padding:0;
+        }
+        a{
+            text-decoration: none;
+            color: rgb(165, 165, 165);
+        }
+        .footer{
+            display: flex;
+            justify-content: space-between;
+            max-width: 1200px;
+            padding:40px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        footer{
+            background-color: rgb(12, 23, 31);
+        }
+        h3{
+            color: rgb(102, 106, 117);
+            margin: 0;
+            padding-bottom:5px;
+        }
+        .ic{
+            width: 20px;
+        }
+        .icons{
+            display: flex;
+            justify-content: space-between;
+            padding:15px;
+        }
+        .container-pg{
+            background-color: white;
+        }
+        .pg-p{
+            color: black;
+        }
+        .pg-img{
+            width:150px;
+        }
+        .pg-h4{
+            margin:0;
+            padding:20px;
+            color: gray;
+            font-size: 40px;
+        }
+        .cont{
+            display: flex;
+            padding: 20px;
+            justify-content: center;
+            align-items: center;
+        
+        }
+        .marg-pg{
+            padding:40px;
+            max-width: 1200px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .pika{
+            width: 100px;
+        }
+        .sleep{
+            width: 200px;
+        }
+        .pg-h6{
+            font-size: 20px;
+            margin:0;
+        }
+        .seemore{
+            background-color:#4992ca ;
+            border:none;
+            color: white;
+            padding: 15px;
+            font-size: 18px;
+            width:15rem;
+        }
+        .pg-sec{
+            width: 400px;
+        }
